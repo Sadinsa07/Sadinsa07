@@ -8,27 +8,30 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineering+student;I'm+a+Full+Stack+Developer;" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadinsa07&label=Profile%20views&color=0e75b6&style=flat" alt="sadinsa07" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadinsa07" alt="sadinsa07" /></a> </p>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Sadinsa07&label=Profile%20views&color=0047AB&style=plastic?" alt="Sadinsa07" height=25px, width=160px/>
 
+</p>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-- 👨‍💻 All of my projects are available at [https://github.com/Sadinsa07?tab=repositories](https://github.com/Sadinsa07?tab=repositories)
 
 - 🧑‍🎓 I’m an Undergraduate at **NIBM**
+  
+- ⚡ Fun fact **Call me as Sadii**
+  
+- :technologist: I love using Software as a solution for every `Problem`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`.
+- 👨‍💻 All of my projects are available at [https://github.com/Sadinsa07?tab=repositories](https://github.com/Sadinsa07?tab=repositories)
 
-- 📫 How to reach me **sadinsawarangani@gmail.com**
-
-- ⚡ Fun fact **Call me as Wara**
-
+<br>
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
+  <img align="center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
   
   </td>
 </tr>
